@@ -40,6 +40,8 @@ This project utilizes Power Query and Power BI for manufacturing analysis. It al
 ## Usage
 
 - Open the Power BI report in Power BI Desktop.
+  
+- Download Data via link https://we.tl/t-JZjAXR0LxN .
 
 - Navigate through the dashboards and visualizations to analyze manufacturing data.
 
